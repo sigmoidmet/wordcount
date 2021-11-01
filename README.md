@@ -7,4 +7,4 @@ $ ./wordcount 'go is awesome'
 3
 ```
 
-To make everything work, fork the repo and implement Go module.
+To make everything work, fork the repo and implement Go module. abra cadabra focus pocus
