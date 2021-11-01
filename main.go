@@ -7,8 +7,8 @@ import (
 
 func main() {
     var s string
-	  fmt.Scan(&s)
+    fmt.Scan(&s)
     
   
-  fmt.Println(len(strings.Fields(s)))
+    fmt.Println(len(strings.Fields(s)))
 }
