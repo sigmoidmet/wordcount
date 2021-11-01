@@ -3,12 +3,9 @@ package main
 import (
     "fmt"
     "strings"
+    "os"
 )
 
 func main() {
-    var s string
-    fmt.Scan(&s)
-    
-  
-    fmt.Println(len(strings.Fields(s)))
+    fmt.Println(len(strings.Fields(os.Args[1])))
 }
