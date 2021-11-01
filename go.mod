@@ -1,3 +1,3 @@
 module github.com/sigmoidmet/wordcount
 
-go 1.16.9
+go 1.23
